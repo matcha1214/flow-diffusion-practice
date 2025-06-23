@@ -4,4 +4,9 @@ This repository contains my personal practice work with flow matching and diffus
 
 status: unfinished
 
-Course reference: [MIT 6.S184](https://diffusion.csail.mit.edu/)
+  @misc{flowsanddiffusions2025,
+    author       = {Peter Holderrieth and Ezra Erives},
+    title        = {Introduction to Flow Matching and Diffusion Models},
+    year         = {2025},
+    url          = {https://diffusion.csail.mit.edu/}
+  }
